@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="tests">
+    <test name="tests">
+        <classes>
+            <class name="io.github.bonigarcia.wdm.test.tests.GoogleExampleIT"/>
+            <class name="io.github.bonigarcia.wdm.test.tests.GoogleExample1IT"/>
+        </classes>
+    </test>
+</suite>
